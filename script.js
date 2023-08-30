@@ -1,2 +1,2 @@
-//your code herehttps://www.svgrepo.com/show/345221/three-dots.svg
-https://www.svgrepo.com/show/345221/three-dots.svg
+https://www.svgrepo.com/show/345221/three-dots.svg//your code herehttps://www.svgrepo.com/show/345221/three-dots.svg
+https://www.svgrepo.com/showhttps://www.svgrepo.com/show/345221/three-dots.svg/345221/three-dots.svg
